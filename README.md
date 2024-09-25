@@ -66,4 +66,5 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/food-delivery-app.git
    cd food-delivery-app
-(images/output1.png)
+
+![Home_page](images/output1.png)
